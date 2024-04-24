@@ -1,0 +1,146 @@
+[
+    {
+        "image": "/assets/images/words/untidy.webp",
+        "english": "Untidy",
+        "portuguese": "Desarrumado(a)",
+        "pronunciation": {
+            "written": "/ʌnˈtaɪ.di/",
+            "audio": "/assets/audio/untidy.mp3"
+        },
+        "examples": [
+            "She's really untidy at home",
+            "The car interior was untidy."
+        ]
+    },
+    {
+        "image": "/assets/images/words/inference.webp",
+        "english": "Inference",
+        "portuguese": "Inferência", 
+        "pronunciation": { 
+            "written": "/ˈɪn.fər.əns/",
+            "audio": "/assets/audio/inference.mp3"
+        },
+        "examples": [
+            "The detective made an inference.",
+            "Her inference was accurate."
+        ]
+    },
+    {
+        "image": "/assets/images/words/unsung.webp",
+        "english": "Unsung",
+        "portuguese": "Desconhecido(a)",
+        "pronunciation": {
+            "written": "/ˌʌnˈsʌŋ/",
+            "audio": "/assets/audio/unsung.mp3"
+        },
+        "examples": [
+            "Their story goes unsung.",
+            "Her efforts remain unsung."
+        ]
+    },
+    {
+        "image": "/assets/images/words/troubleshooting.webp",
+        "english": "Troubleshooting",
+        "portuguese": "Solução de problemas",
+        "pronunciation": {
+            "written": "/ˈtrʌblʃuːtɪŋ/",
+            "audio": "/assets/audio/troubleshooting.mp3"
+        },
+        "examples": [
+            "He excels at troubleshooting.",
+            "She is skilled in troubleshooting."
+        ]
+    },
+    {
+        "image": "/assets/images/words/whimsical.webp",
+        "english": "Whimsical",
+        "portuguese": "Caprichoso(a)",
+        "pronunciation": {
+            "written": "/ˈwɪmzɪkəl/",
+            "audio": "/assets/audio/whimsical.mp3"
+        },
+        "examples": [
+            "The garden is whimsical and charming.",
+            "She has a whimsical style of dressing."
+        ]
+    },
+    {
+        "image": "/assets/images/words/idyllic.webp",
+        "english": "Idyllic",
+        "portuguese": "Idílico(a)",
+        "pronunciation": {
+            "written": "/ɪˈdɪlɪk/",
+            "audio": "/assets/audio/idyllic.mp3"
+        },
+        "examples": [
+            "The village is idyllic and peaceful.",
+            "They spent an idyllic day at the beach."
+        ]
+    },
+    {
+        "image": "/assets/images/words/lush.webp",
+        "english": "Lush",
+        "portuguese": "Exuberante",
+        "pronunciation": {
+            "written": "/lʌʃ/",
+            "audio": "/assets/audio/lush.mp3"
+        },
+        "examples": [
+            "The forest is lush with greenery.",
+            "The garden was lush and vibrant."
+        ]
+    },
+    {
+        "image": "/assets/images/words/astonishing.webp",
+        "english": "Astonishing",
+        "portuguese": "Surpreendente",
+        "pronunciation": {
+            "written": "/əˈstɒnɪʃɪŋ/",
+            "audio": "/assets/audio/astonishing.mp3"
+        },
+        "examples": [
+            "Her performance was astonishing.",
+            "The view was absolutely astonishing."
+        ]
+    },
+    {
+        "image": "/assets/images/words/ethereal.webp",
+        "english": "Ethereal",
+        "portuguese": "Etéreo(a)",
+        "pronunciation": {
+            "written": "/ɪˈθɪər.i.əl/",
+            "audio": "/assets/audio/ethereal.mp3"
+        },
+        "examples": [
+            "The music had an ethereal quality.",
+            "She wore an ethereal white dress."
+        ]
+    },
+    {
+        "image": "/assets/images/words/mesmerizing.webp",
+        "english": "Mesmerizing",
+        "portuguese": "Hipnotizante",
+        "pronunciation": {
+            "written": "/ˈmez.mə.raɪ.zɪŋ/",
+            "audio": "/assets/audio/mesmerizing.mp3"
+        },
+        "examples": [
+            "Her voice was mesmerizing.",
+            "That dance was mesmerizing."
+        ]
+    },
+    {
+        "image": "/assets/images/words/eerie.webp",
+        "english": "Eerie",
+        "portuguese": "Assustador(a)",
+        "pronunciation": {
+            "written": "/ˈɪə.ri/",
+            "audio": "/assets/audio/eerie.mp3"
+        },
+        "examples": [
+            "The abandoned house looked eerie.",
+            "That was an eerie silence in the forest."
+        ]
+    }
+    
+]
